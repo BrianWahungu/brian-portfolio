@@ -13,61 +13,60 @@ function Experience() {
       <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010 - 2014"
+          date="November 2022 - April 2023"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random High School, Random Place, Random State
+            Moringa School
           </h3>
-          <p> High School Diploma</p>
+          <p> Full-stack Software Engineer</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2014 - 2018"
+          date="April 2023 - July 2023"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Cool University, Vancouver, British Columbia
+            Amazon Web Services (AWS)
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
-            Bachelor's Degree
+            Backend Mastery in Amazon Web Services
           </h4>
 
-          <p> Computer Science</p>
+          <p> Certificate</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018 - 2020"
+          date="August 2023 - November 2024"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Back End Engineer - Google
+            Full-Stack Software Engineer - iTalanta
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
+            Nairobi Kenya
           </h4>
-          <p>Developed the backend infrastructure for 3 projects.</p>
+          <p>Helped them launch the elewa website.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2020 - present"
+          date="November 2023 - present"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Full Stack Engineer - Twitch
+          Full-stack Software Engineer, Brian Technologies
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
+            Nairobi, Kenya
           </h4>
           <p>
-            Helped the team launch 2 major features by working both in the front
-            end and back end.
+          Involved in designing new software.
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
